@@ -3,7 +3,8 @@ margin: 0;
 background-color: #ececf3;
 font-family: Arial, sans-serif;
 color: #222222;
-.page {
+
+  .page {
 width: 760px;
 margin: 40px auto;
 background-color: white;
